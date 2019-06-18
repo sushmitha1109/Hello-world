@@ -1,0 +1,92 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience ",
+    "skills": "Skills",
+    "projects": "PROJECT",
+    "awards": "",
+    "education": "EDUCATION"
+  },
+  "basics": {
+    "email": "sushmithakumarav22@gmail.com",
+    "phone": "8072740433",
+    "location": {
+      "address": "chennai"
+    },
+    "name": "Sushmitha SK"
+  },
+  "education": [
+    {
+      "location": "chennai ",
+      "area": "Information Technology",
+      "studyType": "B.Tech",
+      "gpa": "7.04",
+      "institution": "Rajalakshmi engineering ",
+      "startDate": "May 2018",
+      "endDate": "May 2018"
+    },
+    {
+      "institution": "SBOA Matriculation and Higher secondary ",
+      "location": "Chennai",
+      "studyType": "12th grade",
+      "area": "Computer science",
+      "gpa": "74",
+      "startDate": "May 2012",
+      "endDate": "May 2014"
+    },
+    {
+      "institution": "SBOA Junior college",
+      "location": "Chennai",
+      "studyType": "10th grade",
+      "gpa": "8.4",
+      "startDate": "May 2010",
+      "endDate": "May 2012"
+    }
+  ],
+  "work": [
+    {
+      "company": "Byjus- Learning applicaiton",
+      "location": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "C, C++, Java, Python",
+      "level": "",
+      "keywords": [
+        null
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "maritime boundary "
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
